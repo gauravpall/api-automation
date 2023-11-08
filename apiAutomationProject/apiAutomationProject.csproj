@@ -97,6 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="gametwist_test_cases.xlsx" />
     <None Include="packages.config" />
     <None Include="readme.md" />
   </ItemGroup>
