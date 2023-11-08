@@ -37,7 +37,7 @@ The project includes the following test cases:
 
 2. **TestUpdatePet**: Verifies the functionality of updating an existing pet.
 
-3. **TestFindPetById**: (Description here)
+3. **TestFindPetById**: Verifies the functionality of finding a pet by its ID.
 
 ## Customizing Test Data
 
